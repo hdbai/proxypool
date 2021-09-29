@@ -1,5 +1,5 @@
 # your domain
-domain: example.com
+domain: ds-proxypool-v2.herokuapp.com
 
 # database url
 database_url: ""
